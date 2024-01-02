@@ -4,8 +4,8 @@
 - 👨‍🎓 Computer Science student at Poznań University of Technology - currently pursuing Bachelor's degree
 - 🧑‍💻 [AKAI](https://akai.org.pl/) member
 - 🔬 Interests:
-  - 💻 - Software Development
-  - 🧠 - AI
+  - 💻 Software Development
+  - 🧠 AI
   - 👟 Running
   - 🎺 Music Production
 
