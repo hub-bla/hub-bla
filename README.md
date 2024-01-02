@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hubert Błaszczyk</h1>
+<h1>Hi 👋, I'm Hubert Błaszczyk</h1>
 </tr>
 
 - 👨‍🎓 Computer Science student at Poznań University of Technology - currently pursuing Bachelor's degree
